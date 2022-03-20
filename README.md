@@ -16,69 +16,88 @@ Highly skilled in using data manipulation to solve various real-world problems i
 
 Skills
 
-Machine learning  
+ML Algorithms  
 
-English Proficiency
+Data Mining  
 
+Statistical Modeling  
 
-
-Core Competencies
-
-
-
-Statistical analysis  
-
-Data Visualize Skill  
+Data Visualize  
 
 Python  
 
+Predictive Analysis  
+
+Web Scraping  
+
+Model Development  
+
+Data Analytics  
+
+Clustering & Classification  
+
+Microsoft Azure  
+
+Google Cloud Platform  
+
+Amazon AWS  
+
+TensorFlow  
+
 Certifications
 
-Oracle Database Programming and Administration Workshop
-
-
-Intermediate Python for Data Science Course - DataCamp
-
-
-Oracle Java Programming Workshop
-
-
+Oracle | Database Programming and Administration Workshop  
+DataCamp | Intermediate Python for Data Science Course  
+Oracle | Java Programming Workshop
 
 Education
 
-University of North Texas | Denton, Texas 
+University of North Texas | Denton, Texas Denton, Texas
+Master of Science Artificial Intelligence 
+Biomedical Engineering Concentration | GPA 3.25
+Research Assistance: Biomedical Research and BioMEMS
 
-Master of Engineering | Artificial Intelligence | GPA 3.25
-Biomedical Engineering Concentration
+Relevant coursework: Machine Learning, Artificial Intelligence, Software Development for AI, Digital Image Processing, Big data and Data Science, Feature Engineering, Software for Medical Engineering, Biomedical Instruments, Deep Learning, Medical Imaging
 
-Relevant coursework: Machine Learning, Artificial Intelligence, Software Development for AI, Digital Image Processing, Big data and Data Science, Feature Engineering, Software for Medical Engineering, Biomedical Instruments
-
-King Mongkut's University of Technology Thonburi | Thailand 
-
-Master of Information Technology | Data Science | GPA 3.81
-
+King Mongkut's University of Technology Thonburi Thailand
+Master of Information Technology Data Science 
+GPA 3.81
 Research Paper - Competition: TMDB Predicting Box Office's revenue
 
 Relevant Coursework: System Analysis & Design, Design and Analysis of Algorithms, Database Management System, Database Technology, Artificial Intelligence, Data Mining, Big Data Analytics
 
-Assumption University | Bangkok, Thailand 
+Assumption University Bangkok, Thailand
+BBA Marketing Strategies And Analysis 
 
-Bachelor of Business Administration in Marketing Strategy and Analysis
+Member of Student Marketing Committee
+Received 80th King's Anniversary Scholarship
 
 Work History
 
-January 2019 to December 2019
-Bluebik Group 
+June 2019 to December 2019
+Bluebik Group Bangkok, Thailand
 Data Scientist    
 
-Created data analytics models with Python, Apache Spark, and SQL to analyze data from a top real-estate company using customer demographic and behavior data to improve sales and the return rate of cold-sales calls by 50%.
+Created data analytics models with Python, Apache Spark, and SQL to analyze data from top real-estate companies using customer demographic and behavior data to improve sales and return rate of cold-sales calls by 50%.
 Identified ways to represent and visualize generated data using Tableau Data Visualizer which can lead to better decision making for both management level and operation level.
+Applied statistical and algebraic techniques to interpret key points from gathered data
+Built tools to automate processes such as lead generation processes
+Developed data-gathering and reporting structures from ground up and strategized methods capitalizing on system features
 
 April 2016 to December 2018
-SIS Distribution 
+SIS Distribution Bangkok, Thailand
 Sales and Marketing Officer    
 
-Negotiated and communicated with multiple innovative product vendors to obtain suitable products for projects with competitive prices and ensure the requirements and timeline of projects were adhered to and deadlines were met.
+Negotiated and communicated with multiple innovative product vendors to obtain suitable products for projects with competitive prices and ensure requirements and timeline of projects were adhered to and deadlines were met.
+Performed competitive analyses and adjusted sales and marketing strategies accordingly.
+
+Accomplishments
+
+Predicted house prices based on weather conditions by using Machine Learning algorithms with multiple datasets.
+Built image processing model to analyze DICOM (x-ray) files using Python libraries and Convolution Neural Network.
+Developed a front-end page with Flask and connected it to the Optical Character Recognition Machine Learning model utilizing Azure Cloud Service to recognize and transform the ambiguous images of text into digital format.
+Summarized Articles by applying Bidirectional Encoder Representations from Transformers (BERT) language model with neural network.
+
 
 Accomplishments
 
